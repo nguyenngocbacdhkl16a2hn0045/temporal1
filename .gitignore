@@ -1,0 +1,10 @@
+**/bin/
+**/obj/
+logs/
+run-logs/
+*.db
+*.db-shm
+*.db-wal
+*.user
+*.suo
+.vs/
